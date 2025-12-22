@@ -1,1 +1,16 @@
 <body>
+
+    background: #d4d6b3;
+}
+
+table {
+    background-color: rgb(149, 224, 20);
+    width: 100%;
+
+}
+td{
+    width: 30%;
+    align-content: center;
+}
+h2{
+    align-content: center;
